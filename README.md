@@ -1,2 +1,2 @@
-# Test-Repo
-Data Science course material
+# Data Science Course
+May contain material from the Coursera Data Science course
